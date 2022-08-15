@@ -40,6 +40,6 @@ printascii <индекс буквы из таблицы ASCII>
 ```
 PRINTASCII выводит букву по индексу из таблицы ASCII
 
-# Таблицы ASCII
+# Таблица ASCII
 
 <img src="ascii.jpg"/>
