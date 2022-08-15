@@ -1,0 +1,3 @@
+addstr Hello, world!!!
+setchar 10
+printarr
