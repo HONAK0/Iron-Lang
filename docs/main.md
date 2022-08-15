@@ -26,9 +26,9 @@ printstr <текст*>
 PRINTSTR выводит текст в терминал
 
 ```
-printacc
+printarr
 ```
-PRINTACC выводит все буквы из регистра в терминал
+PRINTARR выводит все буквы из регистра в терминал
 
 ```
 printchar
